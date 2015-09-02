@@ -377,6 +377,42 @@ https://rawgit.com/unruledboy/DatabaseStack/master/ux/DatabaseStack.htm
 			- StorSimple
 			- SQL Data Warehouse
 	- NoSQL
-		- Azure Document DB
-
+		- KeyValue
+			-Redis
+			-Tokyo Cabinet/Tyrant
+			-Voldemort
+			-Berkeley DB
+			-Memcached
+			-Dynamo
+			-Amazon SimpleDB
+			-RiakKV
+			-Oracle BDB
+			-Aerospike
+			-OrientDB
+			-MUMPS
+			-C-treeACE
+		- Column
+			-Cassandra
+			-HBase
+			-Riak
+			-Accumulo
+			-Druid
+			-Vertica
+		- Document
+			-MongoDB
+			-CouchDB
+			-ClusterPoint
+			-CouchBase
+			-MarkLogic
+			-OrientDB
+			-Qizx
+			-Lotus Notes
+		- Graphics
+			-Neo4J
+			-OrientDB
+			-InfoGrid
+			-Infinite Graph
+			-Allegro
+			-Virtuoso
+			-Stardog
 <!--BUILD_END-->	
