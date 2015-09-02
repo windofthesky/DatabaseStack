@@ -378,41 +378,41 @@ https://rawgit.com/unruledboy/DatabaseStack/master/ux/DatabaseStack.htm
 			- SQL Data Warehouse
 	- NoSQL
 		- KeyValue
-			-Redis
-			-Tokyo Cabinet/Tyrant
-			-Voldemort
-			-Berkeley DB
-			-Memcached
-			-Dynamo
-			-Amazon SimpleDB
-			-RiakKV
-			-Oracle BDB
-			-Aerospike
-			-OrientDB
-			-MUMPS
-			-C-treeACE
+			- Redis
+			- Tokyo Cabinet/Tyrant
+			- Voldemort
+			- Berkeley DB
+			- Memcached
+			- Dynamo
+			- Amazon SimpleDB
+			- RiakKV
+			- Oracle BDB
+			- Aerospike
+			- OrientDB
+			- MUMPS
+			- C-treeACE
 		- Column
-			-Cassandra
-			-HBase
-			-Riak
-			-Accumulo
-			-Druid
-			-Vertica
+			- Cassandra
+			- HBase
+			- Riak
+			- Accumulo
+			- Druid
+			- Vertica
 		- Document
-			-MongoDB
-			-CouchDB
-			-ClusterPoint
-			-CouchBase
-			-MarkLogic
-			-OrientDB
-			-Qizx
-			-Lotus Notes
+			- MongoDB
+			- CouchDB
+			- ClusterPoint
+			- CouchBase
+			- MarkLogic
+			- OrientDB
+			- Qizx
+			- Lotus Notes
 		- Graphics
-			-Neo4J
-			-OrientDB
-			-InfoGrid
-			-Infinite Graph
-			-Allegro
-			-Virtuoso
-			-Stardog
+			- Neo4J
+			- OrientDB
+			- InfoGrid
+			- Infinite Graph
+			- Allegro
+			- Virtuoso
+			- Stardog
 <!--BUILD_END-->	
