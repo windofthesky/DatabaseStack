@@ -699,7 +699,64 @@
       "name": "NoSQL",
       "children": [
         {
-          "name": "Azure Document DB"
+          "name": "KeyValue",
+          "children": [
+            { "name": "Redis" },
+            { "name": "Tokyo Cabinet/Tyrant" },
+            { "name": "Voldemort" },
+            { "name": "Berkeley DB" },
+            { "name": "Memcached" },
+            { "name": "Dynamo" },
+            { "name": "Amazon SimpleDB" },
+            { "name": "RiakKV" },
+            { "name": "Oracle BDB" },
+            { "name": "Aerospike" },
+            { "name": "OrientDB" },
+            { "name": "MUMPS" },
+            { "name": "C-treeACE" }
+          ]
+        }
+      ]
+      "children": [
+        {
+          "name": "Column",
+          "children": [
+            { "name": "Vertica" },
+            { "name": "Cassandra" },
+            { "name": "HBase" },
+            { "name": "Riak" },
+            { "name": "Accumulo" },
+            { "name": "Druid" }
+          ]
+        }
+      ]
+      "children": [
+        {
+          "name": "Document",
+          "children": [
+            { "name": "MongoDB" },
+            { "name": "CouchDB" },
+            { "name": "ClusterPoint" },
+            { "name": "CouchBase" },
+            { "name": "MarkLogic" },
+            { "name": "OrientDB" },
+            { "name": "Qizx" },
+            { "name": "Lotus Notes" }
+          ]
+        }
+      ]
+      "children": [
+        {
+          "name": "Graphics",
+          "children": [
+            { "name": "Neo4J" },
+            { "name": "OrientDB" },
+            { "name": "InfoGrid" },
+            { "name": "Infinite Graph" },
+            { "name": "Allegro" },
+            { "name": "Virtuoso" },
+            { "name": "Stardog" }
+          ]
         }
       ]
     }
