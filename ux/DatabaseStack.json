@@ -713,8 +713,8 @@
             { "name": "Aerospike" },
             { "name": "OrientDB" },
             { "name": "MUMPS" },
-            { "name": "C-treeACE" }
-            { "name": "Oracle NoSQL KVStore"}
+            { "name": "C-treeACE" },
+            { "name": "Oracle NoSQL KVStore" }
           ]
         }
       ]
